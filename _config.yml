@@ -1,5 +1,25 @@
-title: Lisset's Homepage
-description: Project updates!
+baseurl = "https://lissetbejar.github.io"
+title = "lisset.place"
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+canonifyurls = true
+languageCode = "en-us"
+MetaDataFormat = "toml"
+[indexes] 
+    category = "categories"
+    tag = "tags"
+[author] 
+    name = "Lisset Bejar"
+[permalinks]
+    post = "/:year/:slug/"
+    page = "/:slug/"
+[params]
+  description = "The website of Lisset Bejar"
+[markup.highlight]
+style = "monokailight"
+[markup.goldmark.renderer]
+unsafe= true
 
 remote_theme: pages-themes/modernist@v0.2.0
 plugins:
