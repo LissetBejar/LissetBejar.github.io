@@ -4,7 +4,7 @@
 line. It is intended to be used for contact details -->
 - <lbejar1124@gmail.com>
 - (111) 222-3333
-- [https://lissetbejar.github.io](https://lissetbejar.github.io)
+- [https://lbejar.dev](https://lbejar.dev)
 - Modesto, CA
 
 Highly motivated and results-oriented professional seeking a challenging position in a dynamic and fast-paced organization where I can utilize my skills and contribute to the company's success.
@@ -14,7 +14,6 @@ Highly motivated and results-oriented professional seeking a challenging positio
  - Provided technical support to employees, resolving hardware and software issues.
  - Conducted unit testing and assisted in quality assurance activities.
  - Optimized an algorithm that holds the current world record for Weisman Scores
-
 ## Projects
 
    - Developed a web-based e-commerce application using Java and Spring framework.
